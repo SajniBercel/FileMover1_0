@@ -1,0 +1,17 @@
+C:\Users\Sajni Bercel\source\repos\FileMover_2_0\FileMover_2_0\bin\Debug\net6.0-windows\FileMover_2_0.exe
+C:\Users\Sajni Bercel\source\repos\FileMover_2_0\FileMover_2_0\bin\Debug\net6.0-windows\FileMover_2_0.deps.json
+C:\Users\Sajni Bercel\source\repos\FileMover_2_0\FileMover_2_0\bin\Debug\net6.0-windows\FileMover_2_0.runtimeconfig.json
+C:\Users\Sajni Bercel\source\repos\FileMover_2_0\FileMover_2_0\bin\Debug\net6.0-windows\FileMover_2_0.dll
+C:\Users\Sajni Bercel\source\repos\FileMover_2_0\FileMover_2_0\bin\Debug\net6.0-windows\FileMover_2_0.pdb
+C:\Users\Sajni Bercel\source\repos\FileMover_2_0\FileMover_2_0\obj\Debug\net6.0-windows\FileMover_2_0.csproj.AssemblyReference.cache
+C:\Users\Sajni Bercel\source\repos\FileMover_2_0\FileMover_2_0\obj\Debug\net6.0-windows\FileMover_2_0.Form1.resources
+C:\Users\Sajni Bercel\source\repos\FileMover_2_0\FileMover_2_0\obj\Debug\net6.0-windows\FileMover_2_0.csproj.GenerateResource.cache
+C:\Users\Sajni Bercel\source\repos\FileMover_2_0\FileMover_2_0\obj\Debug\net6.0-windows\FileMover_2_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sajni Bercel\source\repos\FileMover_2_0\FileMover_2_0\obj\Debug\net6.0-windows\FileMover_2_0.AssemblyInfoInputs.cache
+C:\Users\Sajni Bercel\source\repos\FileMover_2_0\FileMover_2_0\obj\Debug\net6.0-windows\FileMover_2_0.AssemblyInfo.cs
+C:\Users\Sajni Bercel\source\repos\FileMover_2_0\FileMover_2_0\obj\Debug\net6.0-windows\FileMover_2_0.csproj.CoreCompileInputs.cache
+C:\Users\Sajni Bercel\source\repos\FileMover_2_0\FileMover_2_0\obj\Debug\net6.0-windows\FileMover_2_0.dll
+C:\Users\Sajni Bercel\source\repos\FileMover_2_0\FileMover_2_0\obj\Debug\net6.0-windows\refint\FileMover_2_0.dll
+C:\Users\Sajni Bercel\source\repos\FileMover_2_0\FileMover_2_0\obj\Debug\net6.0-windows\FileMover_2_0.pdb
+C:\Users\Sajni Bercel\source\repos\FileMover_2_0\FileMover_2_0\obj\Debug\net6.0-windows\FileMover_2_0.genruntimeconfig.cache
+C:\Users\Sajni Bercel\source\repos\FileMover_2_0\FileMover_2_0\obj\Debug\net6.0-windows\ref\FileMover_2_0.dll
