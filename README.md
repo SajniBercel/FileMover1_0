@@ -8,3 +8,5 @@ ennek főleg a mappáknál van értelme, és itt dupla kattintva behelyettesíti
 
 4. nyilván vannak törlés gombok is meg egy kiválasztható kis négyzet hogy törölje-e az eredeti helyről a fájlokat, semmilyen semélyes adatvesztésért nem vállalok felelőséget
 azt javaslom elsőször csinálja pár próbát
+
+(az exe file letölthető innen: https://www.mediafire.com/file/tnkzpy03k8r80z2/FileMover_2_0.exe/file )
