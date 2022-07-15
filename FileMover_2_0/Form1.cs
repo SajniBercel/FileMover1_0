@@ -1,8 +1,8 @@
 namespace FileMover_2_0
 {
-    public partial class Form1 : Form
+    public partial class FileMover : Form
     {
-        public Form1()
+        public FileMover()
         {
             InitializeComponent();
         }
@@ -52,7 +52,10 @@ namespace FileMover_2_0
         private void button1_Click(object sender, EventArgs e)
         {
             Fileok.Clear();
+            KisTurelmetkezd1();
             folderBrowserDialog1.ShowDialog();
+            KisTurelmetvege1();
+            Application.UseWaitCursor = false;
             ForrasMappa = folderBrowserDialog1.SelectedPath + @"\";
             string[] temp = Directory.GetFiles(ForrasMappa);
             for (int i = 0; i < temp.Length; i++) { Fileok.Add(temp[i]); }
@@ -76,6 +79,36 @@ namespace FileMover_2_0
             {
                 listbox.Items.Add(list[i]);
             }
+        }
+        private void KisTurelmetkezd1()
+        {
+            textBox2.Text = "Kis Türelmet";
+            textBox3.Text = "Kis Türelmet";
+            comboBox1.Text = "Kis Türelmet";
+            listBox1.Items.Add("Kis Türelmet");
+            listBox2.Items.Add("Kis Türelmet");
+        }
+        private void KisTurelmetkezd2()
+        {
+            textBox1.Text = "Kis Türelmet";
+            textBox4.Text = "Kis Türelmet";
+            comboBox2.Text = "Kis Türelmet";
+            listBox3.Items.Add("Kis Türelmet");
+        }
+        private void KisTurelmetvege1()
+        {
+            textBox2.Text = "";
+            textBox3.Text = "";
+            comboBox1.Text = "";
+            listBox1.Items.Clear();
+            listBox2.Items.Clear();
+        }
+        private void KisTurelmetvege2()
+        {
+            textBox1.Text = "";
+            textBox4.Text = "";
+            comboBox2.Text = "";
+            listBox3.Items.Clear();
         }
         private void KiterjesztesRendezo()
         {
@@ -122,7 +155,9 @@ namespace FileMover_2_0
         private void button2_Click(object sender, EventArgs e)
         {
             Mappak.Clear();
+            KisTurelmetkezd2();
             folderBrowserDialog1.ShowDialog();
+            KisTurelmetvege2();
             CelMappa = folderBrowserDialog1.SelectedPath + @"\";
             textBox1.Text = CelMappa;
             string[] temp = Directory.GetDirectories(CelMappa);
